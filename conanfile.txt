@@ -1,0 +1,7 @@
+# Docq at https://dgcs.conan.in/en/latest/reference.conanfile_txt.html
+
+[requires]
+catch2/2.13.9
+
+[generators]
+cmake
